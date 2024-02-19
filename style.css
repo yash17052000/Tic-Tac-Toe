@@ -1,0 +1,22 @@
+table,th{
+    border:1px solid black;
+
+
+    margin-left: auto;
+    margin-top: 224px;
+  margin-right: auto;
+}
+
+th{
+    height: 70px;
+    width: 70px;
+    cursor: pointer;
+}
+#circle{
+    height: 70px;
+    width: 70px;
+}
+#cross{
+    height: 70px;
+    width: 70px;
+}
